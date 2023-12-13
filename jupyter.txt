@@ -1,0 +1,8 @@
+﻿pip install wheel
+pip install jupyter
+
+pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+jupyter nbextension enable codefolding/main
+Codefolding in editor
+Hinterland
